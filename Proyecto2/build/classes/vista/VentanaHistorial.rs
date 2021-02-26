@@ -1,0 +1,2 @@
+vista.VentanaHistorial
+vista.FondoPanel
